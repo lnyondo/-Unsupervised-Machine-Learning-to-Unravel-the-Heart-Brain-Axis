@@ -70,3 +70,8 @@ These findings support the concept that:
 - Supports a **systems-level approach to healthcare**  
 - Enables identification of high-risk patient groups  
 - Demonstrates value of AI in precision medicine  
+
+## Link to Video
+https://1drv.ms/v/c/53d0442c54396c33/IQDLm4w8okgYRqsUewwNgPkUAQ9-hHeebJaW60V6b-TVfiI?e=WE3wX8
+
+[Unsupervised Machine Learning to Unravel the Heart–.pptx](https://github.com/user-attachments/files/26844884/Unsupervised.Machine.Learning.to.Unravel.the.Heart.pptx)
