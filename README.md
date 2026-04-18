@@ -2,9 +2,9 @@
 
 ## Project Authors
 
-### Kudakwashe Blessing Mukumbi
+ Kudakwashe Blessing Mukumbi
 
-### Lusubilo Nyondo
+ Lusubilo Nyondo
 
 ## Project Overview
 This project applies unsupervised machine learning to uncover hidden relationships between cardiovascular disease (CVD) and Alzheimer’s disease (AD) using real-world electronic health record (EHR) data.
