@@ -1,5 +1,11 @@
 # Unsupervised Machine Learning to Unravel the Heart–Brain Axis
 
+## Project Authors
+
+### Kudakwashe Blessing Mukumbi
+
+### Lusubilo Nyondo
+
 ## Project Overview
 This project applies unsupervised machine learning to uncover hidden relationships between cardiovascular disease (CVD) and Alzheimer’s disease (AD) using real-world electronic health record (EHR) data.
 
