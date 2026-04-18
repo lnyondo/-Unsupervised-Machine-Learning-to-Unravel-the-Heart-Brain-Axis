@@ -75,3 +75,5 @@ These findings support the concept that:
 https://1drv.ms/v/c/53d0442c54396c33/IQDLm4w8okgYRqsUewwNgPkUAQ9-hHeebJaW60V6b-TVfiI?e=WE3wX8
 
 [Unsupervised Machine Learning to Unravel the Heart–.pptx](https://github.com/user-attachments/files/26844884/Unsupervised.Machine.Learning.to.Unravel.the.Heart.pptx)
+
+[Artificial Intelligence in Healthcare Project.pdf](https://github.com/user-attachments/files/26845477/Artificial.Intelligence.in.Healthcare.Project.pdf)
